@@ -1,8 +1,8 @@
 An extension of the original productivty and Knowldedge managemnet system.
 
-Updates consist of design and functionality changes, and the use of Django nad restFUL Api
+Updates consist of design and functionality changes, and the use of Django and RestFUL API
 
-Designed as part of a University project.
+Designed within a team as part of a University project.
 
 Missing GCP file for personal token security reasons.
 
